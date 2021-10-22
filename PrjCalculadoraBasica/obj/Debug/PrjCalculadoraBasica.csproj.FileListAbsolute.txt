@@ -1,0 +1,10 @@
+C:\Users\willd\source\repos\PrjCalculadoraBasica\bin\Debug\PrjCalculadoraBasica.exe.config
+C:\Users\willd\source\repos\PrjCalculadoraBasica\bin\Debug\PrjCalculadoraBasica.exe
+C:\Users\willd\source\repos\PrjCalculadoraBasica\bin\Debug\PrjCalculadoraBasica.pdb
+C:\Users\willd\source\repos\PrjCalculadoraBasica\obj\Debug\PrjCalculadoraBasica.csproj.AssemblyReference.cache
+C:\Users\willd\source\repos\PrjCalculadoraBasica\obj\Debug\PrjCalculadoraBasica.FrmCalculadora.resources
+C:\Users\willd\source\repos\PrjCalculadoraBasica\obj\Debug\PrjCalculadoraBasica.Properties.Resources.resources
+C:\Users\willd\source\repos\PrjCalculadoraBasica\obj\Debug\PrjCalculadoraBasica.csproj.GenerateResource.cache
+C:\Users\willd\source\repos\PrjCalculadoraBasica\obj\Debug\PrjCalculadoraBasica.csproj.CoreCompileInputs.cache
+C:\Users\willd\source\repos\PrjCalculadoraBasica\obj\Debug\PrjCalculadoraBasica.exe
+C:\Users\willd\source\repos\PrjCalculadoraBasica\obj\Debug\PrjCalculadoraBasica.pdb
